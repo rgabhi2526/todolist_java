@@ -45,6 +45,10 @@ This repository contains Java programs designed to facilitate various data proce
 
 Feel free to open issues, submit pull requests, or suggest new features!
 
+## Author
+
+Abhyudaya Vasisht
+
 ## License
 
 This project is licensed under the MIT License.
