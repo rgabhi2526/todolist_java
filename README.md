@@ -35,7 +35,7 @@ This repository contains Java programs designed to facilitate various data proce
 1. **Running the Project**:
    Run the main file (`run.java`) to start the data processing pipeline.
    ```bash
-   java run_n
+   java run
    ```
 
 2. **Modifying Data Sources**:
