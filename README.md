@@ -22,7 +22,7 @@ This repository contains Java programs designed to facilitate various data proce
 
 1. Clone this repository.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rgabhi2526/todolist_java/tree/f88cefc49170eef609d798f4ed48cb1e9b2f4f4d
    cd <repository-directory>
    ```
 2. Compile the Java files.
